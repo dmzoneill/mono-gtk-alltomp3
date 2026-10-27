@@ -1,5 +1,9 @@
 # AllToMp3
 
+<p align="center">
+  <img src=".github/logo.png" alt="mono-gtk-alltomp3 logo" width="128" />
+</p>
+
 A small Mono GTK# program written to tidy up an MP3 collection.
 
 ## What it does
